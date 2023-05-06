@@ -1,1 +1,1 @@
-# digidoro_resources
+# digidoro resources
