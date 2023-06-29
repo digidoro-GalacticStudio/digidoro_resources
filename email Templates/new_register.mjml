@@ -1,0 +1,131 @@
+<mjml>
+  <mj-head>
+    <mj-title>Discount Light</mj-title>
+    <mj-preview>Pre-header Text</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Nunito', sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Inter',sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+      -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+      color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+      color: #888888
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#D9D9D9" width="600px">
+    <mj-section full-width="full-width" background-color="#202124" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://res.cloudinary.com/dzav4tb08/image/upload/v1688019043/digidoro%20gmails/digi_login_dark_mode_azbly3.png" alt="" align="center" width="200px" />
+       
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="16px">
+          Hello there!
+          <br />
+          <span style="color: #979797; font-weight: 800">-</span>
+        </mj-text>
+      
+        <mj-image src="https://res.cloudinary.com/dzav4tb08/image/upload/v1688019382/digidoro%20gmails/welcome_gmail_vvzdnz.png" width="600px" alt="" padding="0" href="https://google.com" border-radius="8px 8px 0px 0px" />
+      </mj-column>
+    </mj-section>
+      <mj-column width="100%">
+        <mj-image src="https://res.cloudinary.com/dzav4tb08/image/upload/v1688022464/digidoro%20gmails/welcome_gmail2_jwiy6h.png" width="600px" alt="" padding="0" href="https://google.com" />
+      </mj-column>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+
+          <mj-text color="#637381" font-size="16px">
+            Dear  
+            <span style="color: #4880FF; font-weight: 700">{{digi user}}</span>,
+
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Thank you for joining <span style="color: #4880FF;  font-weight:900">digidoro</span>! We're thrilled to have you on board and help you supercharge your productivity. Get ready to achieve more, stay organized, and make the most out of your day!
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            At <span style="color: #202124;  font-weight:900">digidoro</span>, we believe in empowering individuals like you to reach their full potential. With our innovative features and intuitive interface, you'll be able to streamline your tasks, manage your projects, and stay focused on what matters most.
+          </mj-text>
+        
+          <mj-text color="#637381" font-size="16px">
+            Here are a few key benefits you can expect from [Your Productivity App]:
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            <ul>
+              <li style="padding-bottom: 16px"><strong>Efficient Task Management:</strong> Easily create, prioritize, and track your tasks, so nothing falls through the cracks.</li> 
+              <li style="padding-bottom: 16px"><strong>            Personalized Reminders: </strong> Stay on top of deadlines and important events with customizable reminders that fit your workflow.</li>
+              <li style="padding-bottom: 16px"><strong>Pomodoro Technique Integration:</strong>     Boost your productivity and maintain focus using our built-in Pomodoro sessions feature. Break your work into timed intervals, enhancing your concentration and productivity while giving yourself well-deserved breaks.</li>
+
+              <li style="padding-bottom: 16px"><strong>Note-Taking Made Simple:</strong> Capture your ideas, meeting minutes, and important information effortlessly with our note-taking feature. Stay organized and have your notes accessible whenever you need them.</li>
+              
+              <li ><strong>Ranking Section: </strong> Stay motivated and challenge yourself by exploring our ranking section. You can track your own level and progress, as well as compare your achievements with those of your friends. Celebrate milestones together and strive for greatness!</li>
+            </ul>
+
+          </mj-text>
+          <mj-text color="#637381" font-size="16px" padding-bottom="30px">
+            We've designed <span style="color: #4880FF;  font-weight:900">digidoro</span> to be user-friendly and intuitive, but if you ever need assistance, our support team is just a click away. Feel free to reach out with any questions, feedback, or suggestions you may have <a class="text-link" href="https://google.com" style="color: #4880FF;  font-weight:900">here</a>. We're here to ensure you have a seamless experience.
+          </mj-text>
+          
+
+          
+           <mj-button background-color="#202124" align="center"  border="2px solid #202124" border-radius="8px"color="#E8EAED" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
+            Chat with us!
+          </mj-button>
+          <mj-button background-color="#FFC700" align="center"  border="2px solid #202124" border-radius="8px"color="#202124" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
+            Rate us!
+          </mj-button>
+          <mj-text color="#637381" font-size="16px" padding-top="30px">
+           To get started, simply log in with your registered credentials and explore the various features that await you. We're confident that [Your Productivity App] will become an indispensable tool in your quest for productivity.
+          </mj-text>
+
+          <mj-text color="#637381" font-size="16px" padding-bottom="16px">
+            Once again, welcome to <span style="color: #4880FF;  font-weight:900">digidoro</span>! We can't wait to see you accomplish great things.
+          </mj-text>
+
+          <mj-text color="#637381" font-size="16px" padding-bottom="0">
+           Best Regards, 
+          </mj-text>
+            <mj-text color="#637381" font-size="16px" padding-bottom="0">
+            <span style="color: #202124;  font-weight:900">Galactc Studio</span>
+          </mj-text>
+        </mj-column>
+      
+        
+    <mj-wrapper full-width="full-width">
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="facebook" href="https://mjml.io/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="google" href="https://mjml.io/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="linkedin" href="https://mjml.io/" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            &copy; GALACTIC STUDIO. 2023, All Rights Reserved.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+        
+        </mj-group>
+
+      </mj-section>
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>
